@@ -93,6 +93,3 @@ If you like this project, ⭐ it on GitHub — it really helps!
 
 ### 🚀 Give this repo a ⭐ if you enjoyed the game!
 
-```
-
----
