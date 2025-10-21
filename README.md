@@ -1,13 +1,18 @@
-````markdown
-# 🟩 Python Wordle - Terminal Game
 
-A Classic fun and colorful **Wordle clone built in Python** that you can play directly in your **terminal (CLI)**!  
-Guess the secret 5-letter word in 6 tries — with colored hints for accuracy 🟩🟨⬜.  
-Built for fun ✨
+#  Python Wordle - Terminal Game  
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
+![Stars](https://img.shields.io/github/stars/yourusername/python-wordle-terminal-game?style=social)
+
+A classic, fun, and colorful **Wordle clone built in Python** that you can play right in your **terminal (CLI)**!  
+Guess the secret 5-letter word in 6 tries — with color hints for accuracy 🟩🟨⬜.  
+Built for learning and fun ✨  
 
 ---
 
-## 🎮 Features
+## 🎮 Features  
 
 - 🧩 **Classic Wordle rules** — guess the 5-letter word in 6 tries  
 - 🎨 **Color-coded feedback** using [Colorama](https://pypi.org/project/colorama/)  
@@ -15,20 +20,20 @@ Built for fun ✨
   - 🟨 Yellow → correct letter, wrong spot  
   - ⬜ Gray → letter not in word  
 - 🔁 **Play again** option  
-- 🧠 **100+ real 5-letter words**  
+- 📚 **100+ real 5-letter words**  
 - 💻 Works on Windows, macOS, and Linux terminals  
 
 ---
 
-## 🚀 How to Play
+## 🚀 How to Play  
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/python-wordle-terminal-game.git
+git clone https://github.com/palakthz/python-wordle-terminal-game.git
 cd python-wordle-terminal-game
 ````
 
-### 2️⃣ Install the dependencies
+### 2️⃣ Install the dependency
 
 ```bash
 pip install colorama
@@ -56,40 +61,32 @@ Enter your guess: apple
 
 ## 💡 Keywords for GitHub Search
 
-`python` • `wordle` • `terminal game` • `command line` • `cli` • `colorama` • `open source` • `python project` • `mini project` • `game dev`
+`python` • `wordle` • `terminal` • `cli` • `colorama` • `open source` • `game` • `mini project` • `python project` • `word game`
 
 ---
 
 ## 🧰 Tech Stack
 
 * **Language:** Python 🐍
-* **Library:** Colorama (for color output)
-* **Concepts:** Loops, functions, conditionals, random module, user input
+* **Library:** Colorama
+* **Concepts:** Loops, conditionals, dictionaries, user input, random module
 
 ---
 
-## 🌟 Why this project?
-
-This Wordle clone is a perfect **Python mini-project** for beginners.
-It’s simple yet teaches you logic, loops, conditionals, and handling user input — all while having fun!
-
----
-
-## 🧑‍💻 Author
+## 👩‍💻 Author
 
 **Palak**
 Built with ❤️ in Python.
-If you like this project, ⭐ it on GitHub — it really helps!
+If you like this project, ⭐ it on GitHub — it helps a lot!
 
 ---
 
-## 🪄 Future Enhancements
+## 🪄 Future Ideas
 
 * Add difficulty modes
-* Include a daily word feature
-* GUI version using Tkinter or PyQt
+* Daily word feature
+* GUI version (Tkinter / PyQt)
 
 ---
 
-### 🚀 Give this repo a ⭐ if you enjoyed the game!
-
+### 🚀 Don’t forget to ⭐ this repo if you enjoyed the game!
