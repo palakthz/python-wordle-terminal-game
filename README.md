@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)
-![Stars](https://img.shields.io/github/stars/yourusername/python-wordle-terminal-game?style=social)
+![Stars](https://img.shields.io/github/stars/palathz/python-wordle-terminal-game?style=social)
 
 A classic, fun, and colorful **Wordle clone built in Python** that you can play right in your **terminal (CLI)**!  
 Guess the secret 5-letter word in 6 tries — with color hints for accuracy 🟩🟨⬜.  
